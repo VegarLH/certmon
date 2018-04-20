@@ -9,7 +9,7 @@ To use, you need to upate the following code with proper pushover details:
 	// Create a new recipient
 	recipient := pushover.NewRecipient("RecipientHere")
   
-alerts.txt :    Contains keywords for with we want push notifications.
+alerts.txt :    Contains keywords for which we want push notifications.
 
 monitor.txt:    Keywords (typically a domain or top level domain) which you want to monitor to the console and log.
 
