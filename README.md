@@ -1,5 +1,5 @@
 # certmon
-A go application to monitor domains. Uses certstream for data and pushover for push notifications
+A go application to monitor certificate updates for domains. Uses certstream for data and pushover for push notifications
 
 To use, you need to upate the following code with proper pushover details:
 
