@@ -2,7 +2,8 @@
 A go application to monitor domains. Uses certstream for data and pushover for push notifications
 
 To use, you need to upate the following code with proper pushover details:
-// Create a new pushover instance with a token
+
+	// Create a new pushover instance with a token
 	push := pushover.New("YourAppTokenHere")
 
 	// Create a new recipient
